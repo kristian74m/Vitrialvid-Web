@@ -1,5 +1,10 @@
 # VitrialvidWeb
 
+Version:
+Angular CLI: 13.3.5
+Node: 16.15.0
+Package Manager: npm 8.5.5
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
 ## Development server
