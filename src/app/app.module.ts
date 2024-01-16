@@ -12,8 +12,8 @@ import { InicioComponent } from './pages/inicio/inicio.component';
 
 
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import {MatButtonModule} from '@angular/material/button';
-import {MatCardModule} from '@angular/material/card';
+import {MatLegacyButtonModule as MatButtonModule} from '@angular/material/legacy-button';
+import {MatLegacyCardModule as MatCardModule} from '@angular/material/legacy-card';
 import {MatToolbarModule} from '@angular/material/toolbar';
 import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
