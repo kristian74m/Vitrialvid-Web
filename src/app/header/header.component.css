@@ -1,8 +1,10 @@
 nav{
     background-color: #ffc107;
+
 }
   li {
     float: left;
+    color: whitesmoke;
   }
 
   li a {
@@ -20,3 +22,6 @@ nav{
   .active {
     background-color: #ffc107;
   }
+  .navbar-light .navbar-nav .nav-link {
+    color: #000000c4;
+}
