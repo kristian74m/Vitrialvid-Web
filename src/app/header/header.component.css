@@ -1,6 +1,6 @@
 nav{
-    background-color: #ffc107;
-
+    background-color: #6f6bb7  ;
+    
 }
   li {
     float: left;
@@ -16,12 +16,12 @@ nav{
   }
 
   li a:hover {
-    background-color: #ecce75bb;
+    background-color: #6f6bb7;
   }
 
   .active {
-    background-color: #ffc107;
+    background-color: #6f6bb7;
   }
   .navbar-light .navbar-nav .nav-link {
-    color: #000000c4;
+    color: #ffffff;
 }
